@@ -22,7 +22,7 @@ The Employee Leave Management System is a desktop-based application developed us
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/employee-leave-management-system.git
+    git clone https://github.com/Kalhara2000/employee-leave-management-system.git
     ```
 
 2. **Set up the MySQL database:**
